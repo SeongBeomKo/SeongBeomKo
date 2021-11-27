@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=400&section=header&text=David's%20coding%20world&fontSize=90&width=600&animation=fadeIn)
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=SeongBeomKo&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongBeomKo&layout=compact&theme=dracula)]
+![David's github stats](https://github-readme-stats.vercel.app/api?username=SeongBeomKo&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongBeomKo&layout=compact&theme=dracula)
 
 
 <a href="https://velog.io/@davidko">
